@@ -1,0 +1,7 @@
+# This is Git's per-user configuration file.
+[user]
+	email = 8976115+bclincy@users.noreply.github.com
+	name = Brian Clincy
+# Please adapt and uncomment the following lines:
+#	name = Brian Clincy
+#	email = bclincy@Brians-MacBook-Pro.local
