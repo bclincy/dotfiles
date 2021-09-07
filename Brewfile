@@ -5,6 +5,8 @@ tap "homebrew/cask"
 tap "homebrew/core"
 tap "homebrew/services"
 tap "shivammathur/php"
+# Distributed revision control system
+brew "git"
 # Informative, fancy bash prompt for Git users
 brew "bash-git-prompt"
 # Libraries for security-enabled client and server applications
