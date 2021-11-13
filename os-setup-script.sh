@@ -5,29 +5,6 @@ echo "Starting setup"
 xcode-select —-install
 
 # Check for Homebrew to be present, install if it's missing
-if test ! $(which brew); then
-    echo "Installing homebrew..."
-    ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-fi
-
-# Update homebrew recipes
-brew update
-
-echo "Installing cask..."
-CASKS=(
-    iterm2
-    slack
-    intellij-idea-ce
-    visual-studio-code
-    steam
-    google-chrome
-    alfred 
-    evernote
-    1password
-    macdown
-)
-echo "Installing cask apps..."
-brew cask install ${CASKS[@]}
 
 echo "Configuring OS..."
 # Set fast key repeat rate
