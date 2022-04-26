@@ -25,9 +25,13 @@ CASKS=(
     evernote
     1password
     macdown
+    phpstorm
 )
 echo "Installing cask apps..."
 brew cask install ${CASKS[@]}
+
+echo "Installing VS Code Extensions...."
+code --install-extension vscode_extensions
 
 echo "Configuring OS..."
 # Set fast key repeat rate
