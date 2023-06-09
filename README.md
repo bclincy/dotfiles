@@ -4,7 +4,7 @@ This a automation of all my .dotfiles for easier migration to other computers
 (.dotfiles 100 seconds)[https://www.youtube.com/watch?v=r_MpUP6aKiQ]
 # Beyond Dotfiles in 100 Seconds
 
-[![Video thumbnail with link to video...might not need the header line because of this](./dotfiles-in-100-seconds-cover.jpg)](https://youtu.be/r_MpUP6aKiQ "Dotfiles in 100 Seconds on YouTube")
+(./dotfiles-in-100-seconds-cover.jpg)](https://youtu.be/r_MpUP6aKiQ "Dotfiles in 100 Seconds on YouTube")[![Video thumbnail with link to video...might not need the header line because of this]
 
 Watch the [video collaboration](https://youtu.be/r_MpUP6aKiQ "Dotfiles in 100 Seconds on YouTube") between [fireship.io](https://fireship.io/ "Build and ship 🔥 your app ⚡ faster") and [eieio.xyz](http://dotfiles.eieio.xyz "Dotfiles from Start to Finish-ish"). And don't forget to [subscribe](https://fireship.page.link/youtube "Fireship YouTube Channel") while you're there!
 
