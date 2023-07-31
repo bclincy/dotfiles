@@ -26,6 +26,7 @@ CASKS=(
     1password
     macdown
     phpstorm
+    docker
 )
 echo "Installing cask apps..."
 brew cask install ${CASKS[@]}
